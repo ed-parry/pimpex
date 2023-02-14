@@ -20,13 +20,13 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-FAP-20x20-SQUARE": {
+        "GLOBAL-FAP-12x16-PORTRAIT": {
             "enabled": true,
-            "retail_price": 100.00
+            "retail_price": 50.00
         },
-        "GLOBAL-CFP-20x20-SQUARE": {
+        "GLOBAL-CFP-12x16-PORTRAIT": {
             "enabled": true,
-            "retail_price": 200.00,
+            "retail_price": 95.00,
             "images": {
                 "front": {
                     "image_arguments": {
@@ -38,8 +38,8 @@
     },
     "product_ranges": [
         {
-            "title": "Audience by Tolga Tarhan",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=18sVQkvTb6xBsPP9LnofRAyK7eILqJoNw",
+            "title": "Areia do Porto by Francesco Gallo",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hMlWWPUOOOUa3KKokJkBJaH5uNwdYIcH",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -50,8 +50,8 @@
             }
         },
         {
-            "title": "Canicule 2 by Eve St-jean",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=18mhoLFjElwvxf1w2P3neOaJqvBPtQvIj",
+            "title": "Falling Upwards To The Clouds by Antoine Paikert",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1v96FNe6XUYXqsgYsGNYRXvOyZ4VPQony",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -62,8 +62,8 @@
             }
         },
         {
-            "title": "Canicule by Eve St-jean",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=16W4djFRLnmqeTTF5F0r0-X9H3wTWsiFw",
+            "title": "GYO!!! by Eddie Loughran",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1E0lrCLGrIVTd6VZgST0p8R3c_wRvOwRo",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -74,8 +74,8 @@
             }
         },
         {
-            "title": "Dusty by Tolga Tarhan",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1g3Ma3Hs4q08kOQrZJV9P-YQD16U9n7FV",
+            "title": "Illegally dumped by Eve Lee",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1BxkQV_Pg5P43NjqpJ-4g8DIp0l7MfUYn",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -86,8 +86,8 @@
             }
         },
         {
-            "title": "Light Work by Vladimir Hadzic",
-            "user_image_url": "",
+            "title": "One Day by Antoine Paikert",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1j4IOLaCiIbZFgntZrbdXO3q1r3HbJ0MP",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -98,8 +98,20 @@
             }
         },
         {
-            "title": "Untitled 2 by Sam Smyth",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1Locel7jSAcDda_Qi5ey432PctvCOBckI",
+            "title": "Our Minds The Stars by Antoine Paikert",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=118JfH2KRxuOPjsSZp_Mtb1ZCQ46wZwkm",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Unearthly Connection by Antoine Paikert",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=100Bj_80IKtIVuA5i6cplArdjoLhsbjrl",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"

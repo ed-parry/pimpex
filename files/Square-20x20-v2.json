@@ -20,11 +20,11 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-FAP-A1-PORTRAIT": {
+        "GLOBAL-FAP-20x20-SQUARE": {
             "enabled": true,
             "retail_price": 100.00
         },
-        "GLOBAL-CFP-SIZE-PORTRAIT": {
+        "GLOBAL-CFP-20x20-SQUARE": {
             "enabled": true,
             "retail_price": 200.00,
             "images": {
@@ -38,8 +38,8 @@
     },
     "product_ranges": [
         {
-            "title": "Jazz & Pop Festival by Malena Kronschnabl",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1mkNqLJJis1t1xMSbDgj-_XBrVhrXrNuH",
+            "title": "Light Work by Vladimir Hadzic",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1jRA5FxSULQXNde3-9w2QMTzYMa4moPF0",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -50,20 +50,8 @@
             }
         },
         {
-            "title": "KD Workshops by Malena Kronschnabl",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1K32qMhMbtTYP-zL2o7gl6EGVXgeROxI1",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "Something Blue by Johanna Noack",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1JYpaLHbGMmVb1fwnbrUsxIKkScDybOJr",
+            "title": "Untitled 2 by Sam Smyth",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Locel7jSAcDda_Qi5ey432PctvCOBckI",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"

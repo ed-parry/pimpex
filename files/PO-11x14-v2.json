@@ -20,13 +20,13 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-FAP-A3-LANDSCAPE": {
+        "GLOBAL-FAP-11x14-PORTRAIT": {
             "enabled": true,
-            "retail_price": 100.00
+            "retail_price": 45.00
         },
-        "GLOBAL-CFP-A3-LANDSCAPE": {
+        "GLOBAL-CFP-11x14-PORTRAIT": {
             "enabled": true,
-            "retail_price": 200.00,
+            "retail_price": 90.00,
             "images": {
                 "front": {
                     "image_arguments": {
@@ -38,8 +38,8 @@
     },
     "product_ranges": [
         {
-            "title": "Blank Canvas by Margarida",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1X4ME3v4i_RbEcstZE1zCth-RHsczkPZ4",
+            "title": "Ice Dream by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EmLNTQV7p1S3hZ82xcjqMxq5xa7Bfq2-",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -50,8 +50,8 @@
             }
         },
         {
-            "title": "Blossom by Jenny Beard",
-            "user_image_url": "",
+            "title": "Six individuals by Juan de la Rica",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1XaJA6i5K-mAclyDDc29C8ujZCynbWs0h",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -62,8 +62,8 @@
             }
         },
         {
-            "title": "Car by Lizzy Nicholson",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1MUP2-5dLwZ5UQwHruZaie1stjU8pSCha",
+            "title": "The portrait painter by Juan de la Rica",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SLLRvwmhno_JxlzBTKMCtynVK6uVnIl0",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -74,44 +74,8 @@
             }
         },
         {
-            "title": "NY Couple by Francesco Gallo",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1E65KmqCEY2YloUqkidb3y-cGZbb5OH1z",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "Silent Plane by Jenny Beard",
-            "user_image_url": "",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "Swoon by Jenny Beard",
-            "user_image_url": "",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "TV Sport by Johanna Noack",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=16PIs3EhCWF9ouoUWVMIzbIDJXL5IyCuz",
+            "title": "Untitled by Jacob Mitchell",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EXILHEPoBzu29ytYvm7FclzLD0KH4VXj",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"

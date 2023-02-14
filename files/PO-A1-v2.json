@@ -20,13 +20,13 @@
         "enabled": false
     },
     "variants_defaults": {
-        "GLOBAL-FAP-11x14-PORTRAIT": {
+        "GLOBAL-FAP-A1-PORTRAIT": {
             "enabled": true,
-            "retail_price": 45.00
+            "retail_price": 100.00
         },
-        "GLOBAL-CFP-11x14-PORTRAIT": {
+        "GLOBAL-CFP-A1-PORTRAIT": {
             "enabled": true,
-            "retail_price": 90.00,
+            "retail_price": 200.00,
             "images": {
                 "front": {
                     "image_arguments": {
@@ -38,8 +38,8 @@
     },
     "product_ranges": [
         {
-            "title": "Au bassin by Cépé",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=16H7yWyaDZTUgEup1KBBuYcZUqI4ytD4-",
+            "title": "Jazz & Pop Festival by Malena Kronschnabl",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1mkNqLJJis1t1xMSbDgj-_XBrVhrXrNuH",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -50,8 +50,8 @@
             }
         },
         {
-            "title": "Ice Dream by Burak Boylu",
-            "user_image_url": "",
+            "title": "KD Workshops by Malena Kronschnabl",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1K32qMhMbtTYP-zL2o7gl6EGVXgeROxI1",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -62,32 +62,8 @@
             }
         },
         {
-            "title": "Six individuals by Juan de la Rica",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1XaJA6i5K-mAclyDDc29C8ujZCynbWs0h",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "The portrait painter by Juan de la Rica",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1SLLRvwmhno_JxlzBTKMCtynVK6uVnIl0",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "Untitled by Jacob Mitchell",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1EXILHEPoBzu29ytYvm7FclzLD0KH4VXj",
+            "title": "Something Blue by Johanna Noack",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1JYpaLHbGMmVb1fwnbrUsxIKkScDybOJr",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
