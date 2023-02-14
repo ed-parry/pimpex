@@ -7,13 +7,13 @@
     },
     "products_defaults": {
         "global-fap": {
-            "enabled": true
+            "enabled": false
         },
         "global-cfp": {
-            "enabled": true
+            "enabled": false
         },
         "drool-global-cfp": {
-            "enabled": true
+            "enabled": false
         }
     },
     "variant_defaults": {
