@@ -11,9 +11,6 @@
         },
         "global-cfp": {
             "enabled": true
-        },
-        "drool-global-cfp": {
-            "enabled": true
         }
     },
     "variant_defaults": {
