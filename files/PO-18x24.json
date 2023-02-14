@@ -1,0 +1,65 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 200.00
+        },
+        "GLOBAL-CFP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 260.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Tlalocan 5 by Aleksandar Bezinovic",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hu__6lauKfkxU6jDWZqzUrdnDpTSzSj0",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Tlalocan 6 by Aleksandar Bezinovic",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1TveMk96mWZIOrR5OtWf_GhXLoHRKQX-F",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        }
+    ]
+}

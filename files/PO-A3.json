@@ -1,0 +1,137 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 100.00
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 200.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Aubergine Slice by Lauren Doughty",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kQOlm4oLU2QInMI5a-cpQ8dULNHCRrEL",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Conversations during sunset by Jacco Bunt",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1CE_o9uLLzR31yWj2baqZIybLXU6goVkP",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Lamp in the Shadow by Margarida",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1bMO31Mr3bkyBp0Q3vjEOID-9JnaeaMXH",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Portrait Study in negative by Sam Creasey",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Wxh5SniP8cKZjCjx0GqjyZAC5qcHdY2B",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Two Glasses & Bottle by Francesco Gallo",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1tJHpNh7zb0F6_IieqfyuHonnmQlTA_WZ",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Under The Tree by Margarida",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1o0LGiHHceoy9BmB1RKwLzOdOpExXOj5K",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Water Deposit by Margarida",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Ib9nJ7iu7i5zKSJnuLZmLMZ7HzPuA7my",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "White Cube by Margarida",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1s8dC0HaCHlTD-G6ruPSm90fmbIs15GqC",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        }
+    ]
+}

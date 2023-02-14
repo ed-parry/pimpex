@@ -1,0 +1,452 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 210.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 145.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 75.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-11x14-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 100.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 150.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 195.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A0-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 130.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50.00
+        },
+        "GLOBAL-FAP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 40.00
+        },
+        "GLOBAL-FAP-11x14-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 130.00
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Dinner by Donald Sanger",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1FZ_Dgvd9JpFj8_u_2RTByEYFG1mEbUaY",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Flora by Kissi Ussuki",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1JoLCSJBCajSUMvXwexdjVEh_fbJ0_43v",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Fulfilment by Alexander Khabbazi",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1OigzGpzmiiZpuXrxsZYuJ6XofiaM_2l_",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Glitch Girls by Pavel Ripley",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1akgyECL3r6_OT6m9r_NP4WYoKxdRSExw",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "In our hands by Donald Sanger",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1AJPbeAV3P6l1tIIQall4QuxHzOtLsUde",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "It Isn't Working by Hayley Wall",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1yboQbTiwuz7MzQkCqjWoKljylQpVMhTC",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Kings Gardens by Andy Feltham",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1IHP2LvQ9vLbRR6P9YGIP05GhyfbZsF1x",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Koreatown Hideout by Drew Van Dahl",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1RPbPZ_FvU6fytFIN8P2mEmgU7JVFjfB0",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "La plage by Cépé",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kAUTsEpNOp3Rtttxk7bBPbZynLRkIlSA",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "La Siesta Napoletana by Elisa Osols",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SWIo5BbOrjY7WZOGHjbf6nUOlrxxNs5f",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Late Night Stroll by Elisa Osols",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1aODaeY39cQ5eV_r1-cyHuMbtkXIhB2uM",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Lockdown Sex by Haein Kim",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1yegt6HwGWfXBoy9s7k31WFVrKoMSH0I7",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "London Road by Andy Feltham",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1KrzYOESBCYqsoXgaYPibJO4QejDC6C9R",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Manicure, Pedicure by Nina Bachmann",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=14bp2qcHJAVV4V9AiQDDiJRF5KS3AHObK",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Raw by Sven Silk",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1nxnxiBZChe9y1CC_WjNpVUzWvubMhhEI",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Remembrance Way by Andy Feltham",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1V4iUqrTAiP-lMAwXsMTcBt1R4Vkr9jAZ",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Scuffle by Nina Bachmann",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1AmUS6OwNwXD9wNcAGgWo8Wr-yh7dlfEx",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Selli Undercover by Elisa Osols",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1SNWV5WOv0C0pVuDMhg-6aAx_4bG4VKmD",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Swimmers by Jocelyn Tsaih",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kITDR4IURGL453Esq0HvMWSx6d5_gzMD",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Tokyo Taxi by Elisa Osols",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1NhtmGv8w-bpGDGRB_9YmRVXiFOWcc0AQ",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Vancouver by Andy Feltham",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1xcVjVoXiCOoL6zeqEFoLF4-xgTJ-IbFs",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Vibin' by Jocelyn Tsaih",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1K69Q-8i9ojWtfWyiN9Ag1UrkXsfZjUI6",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Living Language by Alexander Khabbazi",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EvSL98KMCnGNrf_e6DRZ6-8h-pLzxV1f",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        }
+    ]
+}

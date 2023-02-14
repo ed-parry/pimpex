@@ -1,0 +1,281 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 100.00
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 200.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "B by Pavel Ripley",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=108AkN-f05f52dbDxOq554iT0a286BTY9",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Broken Mirror by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1wexMqkahH4UEUegH35BTrEJqNrGeyZ9o",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "D by Pavel Ripley",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1l1e9QnwraoL_3_GNtmbgIPIT79BqfeJF",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Distorted Self by Dafni Planta",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1e19SmvdcXU-drxrtgCoK08at_75Pttl1",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Do You Really See Me Tho? by Hayley Wall",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1v96FNe6XUYXqsgYsGNYRXvOyZ4VPQony",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Overwhelming by Carilla Karahan",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EzSRol7gwD75IRj2neRFU_Hv88ITSq60",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Palm Springs Horror Show by Drew Van Dahl",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1G4KLFlIE7XWZTkuE1gPJ5ERUWyRINboo",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "See Right Through by Drew Van Dahl",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=17pSYEA9TA3Gyy0cmUAAp8F5b4R2fPqxN",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Smashed by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1iL1_GjvKFdp4WcvhkL5KKbe2mbqgujh6",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Smiley by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1wfLIQMnr8lF_M41dRi3RzJ39ye9bZbt2",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Sprout Watching by Lauren Doughty",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1I1peiV6DMycK-U9avAYzYS5r340lhGI6",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Surreal Love by Carilla Karahan",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=18f7aJdU7-Fu9GRMvRJWnXPZoXeh2waSW",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Tennis 2 by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-GCBD69o_n9U5vocWHDFX66VBxhvUjiO",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Tennis 4 by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ls7ZYSLpYU-QzNMVMj99jTPZxz-iYIHH",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Tennis 5 by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1i6nWfwMFE9H1U6lAUSoEtImgl7P18HyK",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "This is not BLUE (people) by mareykrap",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1fuAuEy4TbXs7yi1Io755clbvD4Ckz0Qt",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Untitled 2 by Cambo",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1pxTnoPAeKZBmMmAWJSGKw_x4fVNPZlAI",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Untitled 3 by Cambo",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1zY5aeIocMbMeWE53DJuqGHFt4IY-p2Vm",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Untitled by Cambo",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hV2Tu5QZthWrrlskxu_lbkc4Ai3QPuoV",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Who nose by Dafni Planta",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1m2WP3o6Q7FYMR5VKPsC2FDw_x7rAUndW",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        }
+    ]
+}

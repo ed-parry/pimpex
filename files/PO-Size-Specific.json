@@ -1,0 +1,2229 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 210.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 145.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-11x14-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 100.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 150.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 195.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-6x8-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-8x10-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A0-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 130.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 50.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.00
+        },
+        "GLOBAL-FAP-11x14-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-FAP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 130.00
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-FAP-40x60-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-FAP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-FAP-8x10-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "A Night in Albuquerque by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1D6LksH8iKVpFyJ8jmI7PQ3MPCJcxCaK_",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1D6LksH8iKVpFyJ8jmI7PQ3MPCJcxCaK_"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1caQB_6uIgbP_9Nkc21CFiKI4XL68h1I6"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Acid Dream by Sven Silk",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1j4VOdaGYWbWeVyrLAF-dEEDIqIR-i-WJ",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1j4VOdaGYWbWeVyrLAF-dEEDIqIR-i-WJ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-40x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1JQoIOTFNGcKJwQMAAsGyGo_mEZlV4gre"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Acid Fuji by Maxim Dosca",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1mqUenUECTcrxRaGaSmRVLUZlMg0VRF6Y",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1mqUenUECTcrxRaGaSmRVLUZlMg0VRF6Y"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YAnKNP1DAfgyrrh8i5SSe4tTLwSiXKLH"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YAnKNP1DAfgyrrh8i5SSe4tTLwSiXKLH"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Atomium by Natalia Pawlak",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1PdwpOwKgXERpN6PRFVArdWcrVexX-sTl",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1z_BNGHF11ETGjHUYx0a_ZyiWBIf4YMXE"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1PdwpOwKgXERpN6PRFVArdWcrVexX-sTl"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Banana by Jorge Santos",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1tu9qrF6xxp1qzuWAnbOt1eAvSxI7Oi9C",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1tu9qrF6xxp1qzuWAnbOt1eAvSxI7Oi9C"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x28-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1W3Csgqiz_KzT0a5rv6NcwFtoH5oD4kbB"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BCH by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1pANp1nrIie273HExr7uKo_YHHaGLiD6b",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VtZXg2eYCoP0lq0aEGgmj1yBmzS8t8Hb"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1pANp1nrIie273HExr7uKo_YHHaGLiD6b"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Be water by John Schulisch",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=155ItboAS7sA84r2V_kN0GsXl-ZJmYgA2",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=18saa1kLpk3A4y6z6kBfF29mm1UkV7g7m"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=155ItboAS7sA84r2V_kN0GsXl-ZJmYgA2"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BIRD I by Eamonn O'Boyle",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=145QvjdVwMvpqZWRth8jHNNZlcdrt1tV3",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=145QvjdVwMvpqZWRth8jHNNZlcdrt1tV3"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Kth_QAIWghIxY-3ZPD6aj46OoPtKDBjq"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "BUIO by Carla Palette",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1zXmq07NRZKqDp6-JpEw1TRaYNcU23i17",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1IPW0Xlb-vM8W8ScfBfKAt9WuRqn83uN5"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-40x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1zXmq07NRZKqDp6-JpEw1TRaYNcU23i17"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Cafe Terrace by mareykrap",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1WCQwUH6SfoVc-4ES98JIw-8uSFVKzFsn",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1WCQwUH6SfoVc-4ES98JIw-8uSFVKzFsn"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1qCDPx4z4yrKB-JFzuJJT7w3u014llRfv"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "CHOKE by Carla Palette",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1RRG2VZaVm6q05zpr6JRUI_q24Pjb_RiJ",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1RRG2VZaVm6q05zpr6JRUI_q24Pjb_RiJ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-40x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1TVuO6UWuQYNOXzAT8rHWCSB5rB7rqwgE"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "CORBU by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-xfdzPFa6hAIKxM7-2MxkqjhOuj2fSM8",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1_6a4MRB5mf6DJLDZoo6eKZfnHHIwE1BY"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1-xfdzPFa6hAIKxM7-2MxkqjhOuj2fSM8"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Dance Til Ya Can't by Jocelyn Tsaih",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1U8-zAy4yW27aQl4OKfYJsQUqCDCjuT_b",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1U8-zAy4yW27aQl4OKfYJsQUqCDCjuT_b"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x28-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1rlEh5JqC_BmY2JbA3QEI_a-lDLqjZk5P"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Don’t bother me im doodling by Jorge Santos",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1I70KtmX92HwYEps_qCkx1nchtCnxrHB2",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1I70KtmX92HwYEps_qCkx1nchtCnxrHB2"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x28-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1vj1uQLVzt_UH41YZArz0FQ7doYpIbFpw"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Down the Street by Enoch Ku",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1eXjCAccXfsbhJ0EDkwAjkgL7KdEswP23",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=10u9K4wglNwXV53SxmcoRPU22VAlYx2Vz"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1eXjCAccXfsbhJ0EDkwAjkgL7KdEswP23"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1PFFXY4JTFiaa7xiWp7gurGqzkp87sW0L"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Emotions in motion by John Schulisch",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1M6R1oNjoXXsTmX0Iw3AkIa10f1a3TN3e",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1M6R1oNjoXXsTmX0Iw3AkIa10f1a3TN3e"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1dEZK7u89WLUMJF6I3xfnTaFJ_U4djDO0"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Executioner by Kissi Ussuki",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1TdeHwFYnVAFfaLUPvPRBKPiEC7lYqi6C",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1hbD2aoUsL-N9-etZ7-slQgRI9Mhl1XK6"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1TdeHwFYnVAFfaLUPvPRBKPiEC7lYqi6C"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Fall 01 by David Vanadia",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1uCIkcFbrx1MUb-cTKul2R0FDQbW9s_OX",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1lqyCdcQkh9I5ysGl6pyDU9pCxDVyOtjm"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1uCIkcFbrx1MUb-cTKul2R0FDQbW9s_OX"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flirty by Kissi Ussuki",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1qUfnPpUGzKPLcBSdDCpT28f_OXA2lEIJ",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1SYGdl-tf9nqBHUIlgiigZg8FCWV0f546"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1qUfnPpUGzKPLcBSdDCpT28f_OXA2lEIJ"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Floating by DROOL Collective",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1e9iNHkfNjKFCpkT7QVIrHjcBYXHVJMQM",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1e9iNHkfNjKFCpkT7QVIrHjcBYXHVJMQM"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1IZO3eUKOjkI82aydXX2JTGk7AjADJH6B"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flower 2 by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ELjs7k3TruGDvz5VdJa1X_JeZwSu9Bk_",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=12vXxfNx_EfGeXGXQVcVxAzDz1NW0fy_e"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ELjs7k3TruGDvz5VdJa1X_JeZwSu9Bk_"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flower 2 by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-KCCYEFETRarANVuiCWZE7Eyha0MxmjQ",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1rx_gB-3gx1wGwDFKcnMfpFz711lOFgpF"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1-KCCYEFETRarANVuiCWZE7Eyha0MxmjQ"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flower 3 by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1b3s7C9FbQJtnYuuUu6n6sXT0N0MIkrHl",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1L9TVTkS4-wogO_ERnjoFntAzfNJv1MrA"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1b3s7C9FbQJtnYuuUu6n6sXT0N0MIkrHl"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flower 6 by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=17ZxKCOoX14MIj-knNwEq0vVAMzhd5n12",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YZ92xfzkV5cweo4_aDeuPBnXUthZb9qg"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17ZxKCOoX14MIj-knNwEq0vVAMzhd5n12"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Fuji by Maxim Dosca",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1mqe6p81VvmwMMchv460cCePKfr4TBBOZ",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1iNQ_5WrEOHnYa5ij90i_jgTvI5e1A6mB"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1KQNbJ3bUpNbASf0XiylBzcK-9NHj8NYa"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1mqe6p81VvmwMMchv460cCePKfr4TBBOZ"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "H by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1z9wK1n5ROfTRpcyuQ2-I8AFfYff-J3l5",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=18vvYs6JT0u6H8YbMNFC8y8dlh9UYdPvy"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1z9wK1n5ROfTRpcyuQ2-I8AFfYff-J3l5"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Happy smiley composition by Petra",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dcmTPQbI69vBlGmPN0-3aM6SpThSJL4K",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=19Y-HLL-x_j82YODvuW7SU98aVgsmhDze"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1dcmTPQbI69vBlGmPN0-3aM6SpThSJL4K"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HAS by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=151-KiXI634Wq7xPCMkIem6cikhjpMcx8",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1cNn_rr-lfeHQgeuX_vm5r4_r3SN2cyDR"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=151-KiXI634Wq7xPCMkIem6cikhjpMcx8"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "HAY by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1KckfqSxEQyFwtgWDGxUPQPDU_c-p6AXt",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1o5mR-CGmFy0zNEuKohvkBquBdzpc2v35"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1KckfqSxEQyFwtgWDGxUPQPDU_c-p6AXt"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hoop 1 by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1svoxOxjSwU5CyKtV9_fJlT9DBer0TL3_",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1svoxOxjSwU5CyKtV9_fJlT9DBer0TL3_"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1EA0b8cMoPBfA2dKBhO_WeYTCV5XUZHGv"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Hoop Dreams by Enoch Ku",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1lTxzra4FmRKSWqRl8JeZfKSeCgZIXThB",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1PSHJleoiSrd46POsZGH5yMGWyxmh6dOa"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=12lCGJgItetQCpJ_Ifj4qwMwbakbLB__i"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1lTxzra4FmRKSWqRl8JeZfKSeCgZIXThB"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IG by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1yXdapcRDSEXGl4EhQQj-zCxKVUiHpGSj",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1xbg990ttovUDYne0UpfmdEv6e7YyP0rQ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1yXdapcRDSEXGl4EhQQj-zCxKVUiHpGSj"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "IG_2 by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=11GDQwPCwD7HZEqdFPzEsv97Zcuh5-Cr8",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1DEz4qcVxSp6DW_fRBdEuuSivnENn7S9S"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=11GDQwPCwD7HZEqdFPzEsv97Zcuh5-Cr8"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Ikebana Cuttings by Lauren Doughty",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1svlRuhrj6uabB8MAbHuGdnSenm6aDRQx",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1im3ur0etZ9GPO4AUjj-G_Pe_3jajJgL_"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1svlRuhrj6uabB8MAbHuGdnSenm6aDRQx"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Imagined Flora in Green by Lauren Doughty",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1MkWMwRcRDMd23tfLkn_psAm1Ry6S_Kl0",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1MkWMwRcRDMd23tfLkn_psAm1Ry6S_Kl0"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YNfrpR_1ROigY8QG6TFmHJhOnbWaV15S"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Io and the gadfly by Juan de la Rica",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1pBzKi_qTRUqgtBm7LPbzjaPazaTMfHIJ",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1pBzKi_qTRUqgtBm7LPbzjaPazaTMfHIJ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-8x10-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1WFgIHQ1a4Qv70ghK8egUWKQ4LPoLu74m"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Italian Dream by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1FKTYXLHm2cmOoaI6ujZ-_e_2hdH4xDqe",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1FKTYXLHm2cmOoaI6ujZ-_e_2hdH4xDqe"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YxRL1yDp6OubJrxBSrZFD3A9CyhIspID"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Japan by John Schulisch",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Fm28brnWbSaNpI4r-y8IJhgW9V1VkpAR",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Fm28brnWbSaNpI4r-y8IJhgW9V1VkpAR"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=10RpAs7E1RFu4eVLgS2hoGcDwH6DQ8mWW"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Knowledge is power by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1g1dT2RI8TrJVY0BTaRr1nuSPafobjoi_",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OOboXfxdU8VNGBCaAbnHxyJxC8ZGS30c"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1g1dT2RI8TrJVY0BTaRr1nuSPafobjoi_"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "KTSE by Kim Van Vuuren",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1vELkT0YaW4NoR6clJ3w_yYFnuNCeWLvi",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1be2UqF7z451M3Gqru2oZDTIszOT_-8Zw"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1vELkT0YaW4NoR6clJ3w_yYFnuNCeWLvi"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Lake Siloam by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1M3X1TIh155Pj7Q91ZRjbsFkkbbcFwAEe",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1UNK8bdTRJb-gdDurXySXaTgbPZ_pIheF"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1M3X1TIh155Pj7Q91ZRjbsFkkbbcFwAEe"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "LLSG by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1VsEoj3zeKOzsxLlMvU14bUFyLmjCvFmc",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1oxz4-hr4tvPmVHjJGDfN2rmI8cTt79lY"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VsEoj3zeKOzsxLlMvU14bUFyLmjCvFmc"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "LOBO by Carla Palette",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1TVuO6UWuQYNOXzAT8rHWCSB5rB7rqwgE",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1_WkW7z4MS-_pfMpaIU_4KEOu5rDk_UMs"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-40x60-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1TVuO6UWuQYNOXzAT8rHWCSB5rB7rqwgE"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Look Inside by David Vanadia",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EOnJp0ngzmoMUIlAVXxDcp9EtG2VbJwB",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1-oXeR2Zv5XtHsOjfPdGAmwgmnvM9x2xT"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1EOnJp0ngzmoMUIlAVXxDcp9EtG2VbJwB"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Loose Face by David Vanadia",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1QFqGPo0mJhRFkqFA7XSJfH6ltKQ4HhE1",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1fo8Fqay37ed8BGfZkVvT_lzDf97x54Rv"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1QFqGPo0mJhRFkqFA7XSJfH6ltKQ4HhE1"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Make Love by mareykrap",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1r2CkTRpVtZYjHnT9X7-8uGnV1XwzmapV",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1cd0eB0uPGmd390BNdtq3KEgKmCZjJvX1"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1r2CkTRpVtZYjHnT9X7-8uGnV1XwzmapV"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Make them look by Radoslav Panev",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ZuOScdRrZthYTOpm5K9ZPdGvoKHBWc0V",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ZuOScdRrZthYTOpm5K9ZPdGvoKHBWc0V"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1NZQP1I6y0_UZPB93JFo1KIFHdDKt1tXQ"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Melon by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1zSDYHRvnC0xJ8HWl6uQ4HqkeXbxGEUP1",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=10DPFveUOOFkYqLW79EXrzbP9y3Q1HkOh"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1zSDYHRvnC0xJ8HWl6uQ4HqkeXbxGEUP1"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Niseko by John Schulisch",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Cx8EP3svzdqJZKMU8yHkXFPqLjI9tvnu",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1yRebMsH2A501Qqc9xsHw-UJMWhXliTsl"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Cx8EP3svzdqJZKMU8yHkXFPqLjI9tvnu"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "OK Used Cars by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1f_SHeEY6nvPpjQez8ebnhIDfyHNc6Pkw",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1f_SHeEY6nvPpjQez8ebnhIDfyHNc6Pkw"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VTzcIKanvSzfEKgJI_LNVnyG1rtiBU_M"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "ORBITY by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1OaSTzqHjmG-DAkqFeFcOsjq_EbjIO6SW",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Mp_x6ebarMWAYF-y2z05Tg0w4nS3th12"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OaSTzqHjmG-DAkqFeFcOsjq_EbjIO6SW"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Paper Garden by Stell Paper",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15VUUHrDR01NnJg6_LxhV4kt3PaRMSTSq",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=15VUUHrDR01NnJg6_LxhV4kt3PaRMSTSq"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VBcnQISeTVP9LYwSNbf9hhGDIB-ClZPR"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Paper Garden I-I by Stell Paper",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1kbfTohBSA-Uk7nsiKRSIgdLSY04lkVj6",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1maU-tqZykwlUvE7FFpFfU_u3Mcb0LRv5"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1kbfTohBSA-Uk7nsiKRSIgdLSY04lkVj6"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Paper Garden II by Stell Paper",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1NClv4LSw4XLOVR7QVGml98Y-ht0fiw3E",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1NClv4LSw4XLOVR7QVGml98Y-ht0fiw3E"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1X2Jj9qgK6SVAbghrsKrBsbaTaPsghNqd"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Paper Garden II-I by Stell Paper",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1w7JqvYcAdNL1ph18gSpvZNvFFmO179nH",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1AeLNXn_erK1iE_-M5PnsfHTQAx6Nt-n5"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1w7JqvYcAdNL1ph18gSpvZNvFFmO179nH"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Paper Garden III by Stell Paper",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1bSi5r-Ki6p7IgGsJG93EGHTJrCawhn6K",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Gfm-DKwtR3-l3_iZVVHW1yEyNrqyTAFW"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1bSi5r-Ki6p7IgGsJG93EGHTJrCawhn6K"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Ping-Pong Game by Petra",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1rn2i2soiD38sNv0wh0HTYXl2jHAbH1kE",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=19cI1p-as6J8HWppCy9RDE3OLItoc9B5c"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1QvjDp8zZrQVUk4gWmM0gqfbL9H4c7nKC"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1rn2i2soiD38sNv0wh0HTYXl2jHAbH1kE"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pink ´n`Poisonous by Kim Van Vuuren",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1s3912gevbQ50CZN1q7S07dobHHpALuSA",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VJs6C-HBBtFo_lkyvLaOmQT4kVqOFLNE"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1s3912gevbQ50CZN1q7S07dobHHpALuSA"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pirate by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1QBb7PJs3tt984_3M1AZrXVGIGItuuIbD",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1QBb7PJs3tt984_3M1AZrXVGIGItuuIbD"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1EIu_3Uzuo0U16C5OM1prxFXQNPsRBCsw"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pirelli by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YH6TEhp2mQX8SgvPiTwu20EaElbrumiT",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YH6TEhp2mQX8SgvPiTwu20EaElbrumiT"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=15_a3CE39VZg-Atjp4f4DRGOzisCPmnbK"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Punch in the face by Radoslav Panev",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1_JycA078RdJsKdZ1acLDd93H0i-NVcjr",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=19mRbLw5BL5O_meig1gbIp7d-SRJQOimN"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1_JycA078RdJsKdZ1acLDd93H0i-NVcjr"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "RAB by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1-iF78sroHfKey66Y-m9yc7ucD9Xzi62D",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17QDkWIfDvgpxURfPI2BYwRy2pugqP1EQ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1-iF78sroHfKey66Y-m9yc7ucD9Xzi62D"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "RNT by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1qSRWRmVYub7zo038FC-TU6uMk6dYbTuA",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1fQ3HPjIrJeUDwdVfHQW5mJI5uNfa5gfv"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1qSRWRmVYub7zo038FC-TU6uMk6dYbTuA"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Side mirror by Enoch Ku",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1IlzM9TTV1xbiKGvqOgcOS3oRY1QTXY-p",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1IlzM9TTV1xbiKGvqOgcOS3oRY1QTXY-p"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=15Sy3Y5tfABbf_ixdVMm5BJGnCdzy98oL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Skeleton Bloom by Kim Van Vuuren",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1EnI-Ogq1hVPrH3NKbeZ8JejOfGnbyXDt",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1bPrz4Ox4NIXdctxIEbGQz2T4oliw0rBy"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1EnI-Ogq1hVPrH3NKbeZ8JejOfGnbyXDt"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Snake by Natalia Pawlak",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1lF0i-JEGpXn6Te4mlnL2ZmkJ15628SHx",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1lF0i-JEGpXn6Te4mlnL2ZmkJ15628SHx"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x40-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ZUV4H8Z5aWGP8ZN9ZDfmxdxpLHqnm62F"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sp 87 by Przemek Bizoń",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1z3jtdaUwy44vrYzgK8O0xT5Vex8TD3QK",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wODenscCcg6vwKF8I5XpS6H19tRwt3-u"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1z3jtdaUwy44vrYzgK8O0xT5Vex8TD3QK"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Struktur by Rasmus Stenberg",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1dhL9hlmGy5xdCFR8qJtaf0DcqnHaDmDz",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Zfo3vH_RZfY-4TA6avoaZb6kk14ENVmU"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1dhL9hlmGy5xdCFR8qJtaf0DcqnHaDmDz"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Sunglasses by Kissi Ussuki",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Kb7DX_zcjGVMb8Qax_K1IoxZ7u8zVomb",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Kb7DX_zcjGVMb8Qax_K1IoxZ7u8zVomb"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=18D2-VCieYHHk_zriwwCHDcJoGLNPkh9-"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Symbiosis No. 2 by Dafni Planta",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ZPkPqAfqkBfIAR2TGDHHB91hZ2SYimRm",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ZPkPqAfqkBfIAR2TGDHHB91hZ2SYimRm"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1H875S6d8XxecBZfLyiZvF4n8y5TAiwdO"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Taqueria Mexico by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ZVfSgwenCQrJ0lUSaGqslF3GAvCz7u4N",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=18qVMyKlKx0AbcEA0nlthbY0DQMLEbX39"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ZVfSgwenCQrJ0lUSaGqslF3GAvCz7u4N"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tennis 3 by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=15lX7WFTZSD-3V8m3SfYwYX_JIP48WOwE",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=15lX7WFTZSD-3V8m3SfYwYX_JIP48WOwE"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1Q0TSZcmR6fg9nf5QNPvTVIDfMVRUe8jo"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tepee Curios by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1PZyK4cErYYhH4ggG61mwDmK5OonTftAt",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1PZyK4cErYYhH4ggG61mwDmK5OonTftAt"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=10bmD9_djfQQoDLZr92yYezbB1tY3eiuF"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Devil In I by Jorge Santos",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YOZIg7NSbKD6ALvyaF_0SstVGSKWIBdE",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-18x24-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=14ky-2rIa7VWFTOzWIaDuiZ7pul6FviuI"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x28-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1sMot-4GfEs0KSXwlWjj5NXFIY00KsgaQ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YOZIg7NSbKD6ALvyaF_0SstVGSKWIBdE"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Light by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1HD6aTnPCTptyLQxqNP1xQwOoJFs0ZG66",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1HD6aTnPCTptyLQxqNP1xQwOoJFs0ZG66"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1D0Z53VYQgt30CFy8K_LrgZxNMTt1P1xJ"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "There, There by Kim Van Vuuren",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1OdBcfwwNR6sHli1f5BrqW1R1vuhArpp2",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=167sDx8xSkAY2vSvCFM6YfiOUZApQRpsL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdBcfwwNR6sHli1f5BrqW1R1vuhArpp2"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "This is not BLUE (car) by mareykrap",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1TKxl_jkov-ms1LuAXtk8NMuwRZUIrvBX",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1kYeBzFsVug1HxiY8S00co-gRKXBaJ2eL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1TKxl_jkov-ms1LuAXtk8NMuwRZUIrvBX"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Time to Reflect by GOOD OMEN",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1iwHFxcQjqrQJrjB4s1XoRG4IXRxxqCCT",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1iwHFxcQjqrQJrjB4s1XoRG4IXRxxqCCT"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1AKuSrMMyrPP-f9RkbKpKb2GcxY7wrs7w"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tire Pile by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1oASglIAS12eyqfcf2qBme0UeEJvxBTCB",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1oASglIAS12eyqfcf2qBme0UeEJvxBTCB"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YWlRL9AqOE656rfsxnZYvIXyKQeaWDmR"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Under the stairs by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YKjtKY9G8w_J71tix1Td_s1Etz0SMQj1",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1F0Sm6Twc0OM1Ngl8sftFTrLGH9M_4fAB"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YKjtKY9G8w_J71tix1Td_s1Etz0SMQj1"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Vacant Dreams by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ebL_eTBmGRdDHyy6ZltYpeKoBYW5Il9h",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1omM17wAkcgxQSbKw2xjUxrXdqa8Om8W8"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ebL_eTBmGRdDHyy6ZltYpeKoBYW5Il9h"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Vampire by Kissi Ussuki",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1VWGrsdkFZOmqgLL06hE9B4rNco7Im7EV",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VWGrsdkFZOmqgLL06hE9B4rNco7Im7EV"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1lV8uX2GsOpF_r0IwKS3YvUKUs90Upsqr"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Variation of a Theme by Dafni Planta",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1wF54XXO3dTRPWkaxtXtFrSJkw4RrVG1j",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wF54XXO3dTRPWkaxtXtFrSJkw4RrVG1j"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=12Jt77gTSjykWSMjU-kafoXUAa258Rd4p"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Violet Thirst by Kim Van Vuuren",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1HJDMI0FMvElV0YJRkfHvHyHlzCaeLEBk",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1rkSZ2aEakyuzLz86Lj3Z5EeKUrLHqLdi"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1HJDMI0FMvElV0YJRkfHvHyHlzCaeLEBk"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Yeah Look At Me by Jorge Santos",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1U4JgXbRbr8-JUFPSRXidm1PPcSNGWyG2",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1U4JgXbRbr8-JUFPSRXidm1PPcSNGWyG2"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ABQldh_pLV_vD-HfvBoJEFgxrA_TKNlG"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

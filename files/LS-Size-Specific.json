@@ -1,0 +1,612 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 210.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 145.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 75.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-11x14-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 100.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 150.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 195.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A0-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 130.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A1-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-A2-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50.00
+        },
+        "GLOBAL-FAP-A3-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-A4-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 40.00
+        },
+        "GLOBAL-FAP-11x14-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-18x24-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-FAP-24x32-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 130.00
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 80.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Fall 02 by David Vanadia",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1SQVDo4YlYz2sgpPqq3yygAbpzVhF7GgZ"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1SQVDo4YlYz2sgpPqq3yygAbpzVhF7GgZ"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A0-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1SQVDo4YlYz2sgpPqq3yygAbpzVhF7GgZ"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ipSgfKISGsLmT8NVpb4PLBslEqrrSPPl"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Flower 5 by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1XalP5Lcma2LXryI4WH0yQItkm_taFIQo",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1XalP5Lcma2LXryI4WH0yQItkm_taFIQo"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x28-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1XalP5Lcma2LXryI4WH0yQItkm_taFIQo"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1XalP5Lcma2LXryI4WH0yQItkm_taFIQo"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1OdpX9uIJwtgFVRQIsyrEqVpVIsX1hK02"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x28-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1XalP5Lcma2LXryI4WH0yQItkm_taFIQo"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Laisse tomber les filles by Sophie Goudman-Peachey",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=109A1MDHPhtv49u8NekRjBiVSDUzyHETX",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wTaXBUX1pojdo6fq9kV2n6L0eEIBRXEY"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=109A1MDHPhtv49u8NekRjBiVSDUzyHETX"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wTaXBUX1pojdo6fq9kV2n6L0eEIBRXEY"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-11x14-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=109A1MDHPhtv49u8NekRjBiVSDUzyHETX"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Shattered by Kenzie Meeker",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1QXh_LsXer25kRfcS6L7RH8yT5n5Po9PT",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1QXh_LsXer25kRfcS6L7RH8yT5n5Po9PT"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wtJouwSi83Rfv2oI2a8bVmuyms0G-mDG"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1QXh_LsXer25kRfcS6L7RH8yT5n5Po9PT"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wtJouwSi83Rfv2oI2a8bVmuyms0G-mDG"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Str by Pavel Ripley",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=113EudO3LVAdNEvWBB2HrgsREsDlcpDLh",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=113EudO3LVAdNEvWBB2HrgsREsDlcpDLh"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-A4-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A3-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A2-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-A1-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=113EudO3LVAdNEvWBB2HrgsREsDlcpDLh"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-12x16-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-18x24-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-24x32-LANDSCAPE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=17X0CyApb3CuCXIbEbJaKR_PhRhXHrg7S"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

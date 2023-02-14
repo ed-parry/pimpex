@@ -1,0 +1,125 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        },
+        "global-cfp": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 100.00
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 200.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Backcrux by Lizzy Nicholson",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1yzDzCVVGiiaeDSctR4jg-dMo-qO-kN_o",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Flowers by Johanna Noack",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=16EK5gdNvegpkV9cCIP9owfFa1V6JQxIX",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "ICE COLD KILLA by Sam Creasey",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Dj5gTMw5ZJRxbG3_nceQ4nRxMHfETxbP",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Mastercard by Johanna Noack",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1IDjL2vKrArCwkxFxz3JbTvRyDsLqPs6g",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Panni Stesi by Francesco Gallo",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1KG19l8kKDo7Gw7uvIOt1vowQgoN4yFeA",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Untitled by Sam Smyth",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1y3Yfv8kt9-pXNrIwxCV6R6F8Ca1G9g0J",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        },
+        {
+            "title": "Village on a cliff during sunset by Jacco Bunt",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1hgJDMj-cmIIo7wafUdaCfkUOvYFZNGsi",
+            "products": {
+                "global-fap": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                },
+                "global-cfp": {
+                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
+                }
+            }
+        }
+    ]
+}

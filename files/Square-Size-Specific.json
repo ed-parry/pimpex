@@ -1,0 +1,1121 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 135.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-16x16-SQUARE": {
+            "enabled": true,
+            "retail_price": 110.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 200.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-28x28-SQUARE": {
+            "enabled": true,
+            "retail_price": 80.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 100.00
+        },
+        "GLOBAL-FAP-16x16-SQUARE": {
+            "enabled": true,
+            "retail_price": 50.00
+        },
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 140.00
+        },
+        "GLOBAL-FAP-28x28-SQUARE": {
+            "enabled": true,
+            "retail_price": 180.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "TITLE",
+            "user_image_url": "URL",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            },
+            "global-fap": {
+                "variants": {
+                    "GLOBAL-FAP-12x12-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-16x16-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-20x20-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    },
+                    "GLOBAL-FAP-28x28-SQUARE": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "URL"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
