@@ -38,44 +38,8 @@
     },
     "product_ranges": [
         {
-            "title": "Blossom by Jenny Beard",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=18DJCAV8LFVtRAz-hvEbjnYQgXhsdl7Os",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "Car by Lizzy Nicholson",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1MUP2-5dLwZ5UQwHruZaie1stjU8pSCha",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
-            "title": "NY Couple by Francesco Gallo",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1E65KmqCEY2YloUqkidb3y-cGZbb5OH1z",
-            "products": {
-                "global-fap": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                },
-                "global-cfp": {
-                    "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
-                }
-            }
-        },
-        {
             "title": "Silent Plane by Jenny Beard",
-            "user_image_url": "",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1Ijfd1qwGAmW0V-wQgpRYgZAE8rCzY3S7",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
@@ -87,7 +51,7 @@
         },
         {
             "title": "Swoon by Jenny Beard",
-            "user_image_url": "",
+            "user_image_url": "https://drive.google.com/uc?=export/download&id=1KzBh7qrG20wRiYD7LqWFpSDdTLzrf5oX",
             "products": {
                 "global-fap": {
                     "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer"
