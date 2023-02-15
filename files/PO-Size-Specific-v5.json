@@ -1,0 +1,416 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-cfp": {
+            "enabled": true
+        },
+        "global-fap": {
+            "enabled": true
+        },
+        "drool-global-cfp": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-CFP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 210.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 145.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 75.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-11x14-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 100.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 105.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 150.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 195.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-6x8-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-CFP-8x10-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 140.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A0-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 130.00,
+            "images": {
+                "front": {
+                    "image_arguments": {
+                        "scale": 0.985
+                    }
+                }
+            }
+        },
+        "GLOBAL-FAP-A1-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-A2-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 50.00
+        },
+        "GLOBAL-FAP-A3-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-A4-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 40.00
+        },
+        "GLOBAL-FAP-11x14-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 65.00
+        },
+        "GLOBAL-FAP-12x16-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 60.00
+        },
+        "GLOBAL-FAP-18x24-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 90.00
+        },
+        "GLOBAL-FAP-24x32-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 110.00
+        },
+        "GLOBAL-FAP-28x40-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 130.00
+        },
+        "GLOBAL-FAP-20x28-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-FAP-40x60-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-FAP-16x20-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        },
+        "GLOBAL-FAP-8x10-PORTRAIT": {
+            "enabled": true,
+            "retail_price": 80.00
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Time to Reflect by GOOD OMEN",
+            "user_image_url": "https://www.dropbox.com/s/0q8qgn4fbvcme74/Time%20to%20Reflect%20by%20GOOD%20OMEN%20-%20A0%20PRINT.jpg?dl=1",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A0-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://www.dropbox.com/s/0q8qgn4fbvcme74/Time%20to%20Reflect%20by%20GOOD%20OMEN%20-%20A0%20PRINT.jpg?dl=1"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1AKuSrMMyrPP-f9RkbKpKb2GcxY7wrs7w"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Tire Pile by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1oASglIAS12eyqfcf2qBme0UeEJvxBTCB",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1oASglIAS12eyqfcf2qBme0UeEJvxBTCB"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YWlRL9AqOE656rfsxnZYvIXyKQeaWDmR"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Under the stairs by Max Blackmore",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1YKjtKY9G8w_J71tix1Td_s1Etz0SMQj1",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1F0Sm6Twc0OM1Ngl8sftFTrLGH9M_4fAB"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1YKjtKY9G8w_J71tix1Td_s1Etz0SMQj1"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Vacant Dreams by Burak Boylu",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1ebL_eTBmGRdDHyy6ZltYpeKoBYW5Il9h",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A4-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1omM17wAkcgxQSbKw2xjUxrXdqa8Om8W8"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-11x14-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ebL_eTBmGRdDHyy6ZltYpeKoBYW5Il9h"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Vampire by Kissi Ussuki",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1VWGrsdkFZOmqgLL06hE9B4rNco7Im7EV",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-16x20-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1VWGrsdkFZOmqgLL06hE9B4rNco7Im7EV"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A2-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1lV8uX2GsOpF_r0IwKS3YvUKUs90Upsqr"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Variation of a Theme by Dafni Planta",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1wF54XXO3dTRPWkaxtXtFrSJkw4RrVG1j",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1wF54XXO3dTRPWkaxtXtFrSJkw4RrVG1j"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=12Jt77gTSjykWSMjU-kafoXUAa258Rd4p"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Violet Thirst by Kim Van Vuuren",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1HJDMI0FMvElV0YJRkfHvHyHlzCaeLEBk",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-24x32-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1rkSZ2aEakyuzLz86Lj3Z5EeKUrLHqLdi"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-A1-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1HJDMI0FMvElV0YJRkfHvHyHlzCaeLEBk"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Yeah Look At Me by Jorge Santos",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=1U4JgXbRbr8-JUFPSRXidm1PPcSNGWyG2",
+            "description": "Each print is produced on sustainably sourced, museum-quality paper and applied using archival-grade inks. Why not add a frame? Each is made to order by an expert framer",
+            "global-cfp": {
+                "variants": {
+                    "GLOBAL-CFP-A3-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1U4JgXbRbr8-JUFPSRXidm1PPcSNGWyG2"
+                            }
+                        }
+                    },
+                    "GLOBAL-CFP-12x16-PORTRAIT": {
+                        "images": {
+                            "front": {
+                                "user_image_url": "https://drive.google.com/uc?export=download&id=1ABQldh_pLV_vD-HfvBoJEFgxrA_TKNlG"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
