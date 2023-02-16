@@ -173,32 +173,8 @@
     },
     "product_ranges": [
         {
-            "title": "Cheers. Good Health by Xela",
-            "user_image_url": "https://www.dropbox.com/s/his5c7me60b3q7e/Cheers.%20Good%20Health%20by%20Xela%20-%20A0%20PRINT.jpg?dl=1",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Cherry Top by Neosmith",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1SLoI3hzP18n1u07gGYvPoCfJkBgfpBWM",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
             "title": "Chrome Heart by Paulina Almira",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1EfibDojREFB52hsH6fvV6I-JsoAHEWDl",
+            "user_image_url": "https://www.dropbox.com/s/8fv1pm479wgmpjp/Chrome%20Heart%20by%20Paulina%20Almira%20-%20A0%20PRINT.jpg?dl=1",
             "products": {
                 "global-fap": {
                     "description": ""
