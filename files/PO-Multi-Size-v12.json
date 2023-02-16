@@ -173,44 +173,8 @@
     },
     "product_ranges": [
         {
-            "title": "Les Mains Fleuries by Paolinoshka",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1sHIrAFibsYi4CItXDK1nvFWq_jFRcLmw",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Let Us Eat Jelly by Hayley Wall",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1DEk5WbVp0F-qyMeKpw7EgfkP1HgxvQbj",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Look by John Schulisch",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1sR_wBefufzZc2MNPQlnpjlaCFVDvj35T",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
             "title": "Love Has Everything To Do With It by Paulina Almira",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1xhKq_2y_APVeQtbQ-qWKSbjaBOOIXWIk",
+            "user_image_url": "https://www.dropbox.com/s/jtkxjwiify2s3gc/Love%20Has%20Everything%20To%20Do%20With%20It%20by%20Paulina%20Almira%20-%20A0%20PRINT.jpg?dl=1",
             "products": {
                 "global-fap": {
                     "description": ""
