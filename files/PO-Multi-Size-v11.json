@@ -173,42 +173,6 @@
     },
     "product_ranges": [
         {
-            "title": "Labyrinth by Utsav Verma",
-            "user_image_url": "https://www.dropbox.com/s/4t0174ao4u4a2hi/Labyrinth%20by%20Utsav%20Verma%20-%20A1%20PRINT.jpg?dl=1",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Lazy by Carilla Karahan",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1wwfg93xdh3uM-0uPksTsr8g5oTl5OJ22",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "LEAVES by Eamonn O'Boyle",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1tKvxTKukWnPN0btaLWdbYXqFnHqTHNNK",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
             "title": "Les Mains Fleuries by Paolinoshka",
             "user_image_url": "https://drive.google.com/uc?export=download&id=1sHIrAFibsYi4CItXDK1nvFWq_jFRcLmw",
             "products": {
