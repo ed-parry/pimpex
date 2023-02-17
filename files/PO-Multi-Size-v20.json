@@ -173,140 +173,8 @@
     },
     "product_ranges": [
         {
-            "title": "Wagyu by Xela",
-            "user_image_url": "https://www.dropbox.com/s/0nzclc8tbj7jh5r/Wagyu%20by%20Xela%20-%20A0%20PRINT.jpg?dl=1",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Watching you by Tom Modol",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1DLKYQpTEOcnKEB1mIS2NDon90U3yBn7M",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Waterfront Truck by Alex Lysakowski",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1hVcDWxdKXdr6ZBEMRn5btsXB5kaa1Fed",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Waves by Alexander Khabbazi",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1aSXi2VC8PcNe71OHY8ZM2RL6Pg4aPaPe",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "What Happened by Antoine Paikert",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1lzMgzd9dd7q_JQHKQD5vfmctR7mNZUmq",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Wildlife by Alexander Khabbazi",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1V0h1NKG-tCg7KqHUZE0E-tTs4qXvKY2H",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Window by John Schulisch",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1w25MUK2-MVKXtQ9vG9cjnFF1ncbzh6la",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Wine Time 2 by Nina Bachmann",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1l4F-gTQ_DdCh3ZMe0ffiALOqNuAcodjv",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Wine Time by Nina Bachmann",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1fUbU-ZaQwsVWur9Xhlgr7-D9QnXj77fN",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "XXX by Sven Silk",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1Dw4I4c2R4uh62he53AmfySlkwCMrpPxV",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Yes! by Jorge Santos",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1lDUVwie4WczrHfceBNwz2E9NA7Fw2JZV",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
             "title": "Your Company by Paulina Almira",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1jaEFs_bFQ8DcC6UNVzAXETiGZ0IVaZnY",
+            "user_image_url": "https://www.dropbox.com/s/tsyxzrohr2jo3ns/Your%20Company%20by%20Paulina%20Almira%20-%20A0%20PRINT.jpg?dl=1",
             "products": {
                 "global-fap": {
                     "description": ""
@@ -318,7 +186,7 @@
         },
         {
             "title": "Zeitgeber by Utsav Verma",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1BQwl-GUWuW-ykAy78MO4uYTvA9l3FKwC",
+            "user_image_url": "https://www.dropbox.com/s/a5iqzzhhhioiabz/Zeitgeber%20Dark%20by%20Utsav%20Verma%20-%20A0%20PRINT.jpg?dl=1",
             "products": {
                 "global-fap": {
                     "description": ""
