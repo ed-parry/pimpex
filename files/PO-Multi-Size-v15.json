@@ -173,68 +173,8 @@
     },
     "product_ranges": [
         {
-            "title": "Slavic Glyphs Festival by Vlad Boyko",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1EE0JXf_w40UnOi2NxbgK8fV9PRLll-DN",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Sleep by Jorge Santos",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1Zlt281CA4-Y5QlqtK8l0Z7FVJiqgqcPU",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Slither by Adam Foster",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1u9wKAGisMhsPidfxJWPP5oU96YSSKHcf",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Snake by Max Blackmore",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1K2lVYXJP8Ve7ldhdUaaTgCWGZ9yQp-vr",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
-            "title": "Solitude Is Bliss by Ricardo Schultz Ferraro",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=1UbHCq73VyqQuuJf1cQBWJWdbTEJX6mhG",
-            "products": {
-                "global-fap": {
-                    "description": ""
-                },
-                "global-cfp": {
-                    "description": ""
-                }
-            }
-        },
-        {
             "title": "Soulmates & Strangers by Antoine Paikert",
-            "user_image_url": "https://drive.google.com/uc?export=download&id=16EW1gN-3mGEPME0IxHt8OjuAMjUdZAAs/view?usp=sharing",
+            "user_image_url": "https://drive.google.com/uc?export=download&id=16EW1gN-3mGEPME0IxHt8OjuAMjUdZAAs",
             "products": {
                 "global-fap": {
                     "description": ""
