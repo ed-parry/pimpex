@@ -1,0 +1,46 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "cushion": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "suede_18x18_cushion": {
+            "enabled": true,
+            "retail_price": 32
+        },
+        "suede_24x24_cushion": {
+            "enabled": true,
+            "retail_price": 44.99
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Snow Leopard 2 Animal",
+            "user_image_url": "https://www.dropbox.com/s/ylwxhexm8jbd0pw/CUSH-00161.jpg?dl=1",
+            "products": {
+                "cushion": {
+                    "description": ""
+                }
+            }
+        },
+        {
+            "title": "Cat Lady Animal",
+            "user_image_url": "https://www.dropbox.com/s/54tselltnpb2cyl/CUSH-00162.jpg?dl=1",
+            "products": {
+                "cushion": {
+                    "description": ""
+                }
+            }
+        }
+    ]
+}
