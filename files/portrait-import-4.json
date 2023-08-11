@@ -26,14 +26,14 @@
     "product_ranges": [
         {
             "title": "ANOTHER DESIGN WITH VARIANT IMAGES",
-            "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/8a4c8ac80193cffb6faf6e8ff97cf3109a28a473/files/two.jpg",
+            "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/8a4c8ac80193cffb6faf6e8ff97cf3109a28a473/files/a.jpg",
             "products": {
                 "global-fap": {
                     "variants": {
                         "GLOBAL-FAP-6x8-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/8a4c8ac80193cffb6faf6e8ff97cf3109a28a473/files/one.jpg"
+                                    "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/8a4c8ac80193cffb6faf6e8ff97cf3109a28a473/files/b.jpg"
                                 }
                             }
                         },
