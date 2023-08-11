@@ -62,9 +62,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -76,9 +74,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -107,9 +103,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -121,9 +115,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -152,9 +144,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -166,9 +156,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -197,9 +185,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -211,9 +197,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -228,9 +212,7 @@
                     "variants": {
                         "GLOBAL-FAP-6x8-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-8x12-LANDSCAPE": {
@@ -242,9 +224,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -256,9 +236,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -273,9 +251,7 @@
                     "variants": {
                         "GLOBAL-FAP-6x8-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-8x12-LANDSCAPE": {
@@ -287,9 +263,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -301,9 +275,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -332,9 +304,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -346,9 +316,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -363,9 +331,7 @@
                     "variants": {
                         "GLOBAL-FAP-6x8-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-8x12-LANDSCAPE": {
@@ -377,9 +343,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -391,9 +355,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -422,9 +384,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -436,9 +396,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -453,9 +411,7 @@
                     "variants": {
                         "GLOBAL-FAP-6x8-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-8x12-LANDSCAPE": {
@@ -467,9 +423,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -481,9 +435,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -512,9 +464,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -526,9 +476,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -557,9 +505,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -571,9 +517,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -602,9 +546,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -616,9 +558,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
@@ -647,9 +587,7 @@
                         },
                         "GLOBAL-FAP-12x16-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         },
                         "GLOBAL-FAP-20x28-LANDSCAPE": {
@@ -661,9 +599,7 @@
                         },
                         "GLOBAL-FAP-28x40-LANDSCAPE": {
                             "images": {
-                                "front": {
-                                    "user_image_url": ""
-                                }
+                                "front": {}
                             }
                         }
                     }
