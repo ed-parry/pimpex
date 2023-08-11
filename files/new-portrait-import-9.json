@@ -41,56 +41,6 @@
     },
     "product_ranges": [
         {
-            "title": "Boho Floral Vase Art Print",
-            "user_image_url": "https://www.dropbox.com/scl/fi/1q169yprthk9v86d387rg/LY1036-1520-Boho-Floral-Vase.tif?rlkey=3gk6x27ogd0jnmaim0dyfpks0&dl=1",
-            "products": {
-                "global-fap": {
-                    "variants": {
-                        "GLOBAL-FAP-6x8-PORTRAIT": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://www.dropbox.com/scl/fi/1q169yprthk9v86d387rg/LY1036-1520-Boho-Floral-Vase.tif?rlkey=3gk6x27ogd0jnmaim0dyfpks0&dl=1"
-                                }
-                            }
-                        },
-                        "GLOBAL-FAP-8x12-PORTRAIT": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://www.dropbox.com/scl/fi/2ums5ralripvas7aoh272/LY1036-A4-Boho-Floral-Vase.tif?rlkey=rrgfi4vucad80j05fy9xlyvbd&dl=1"
-                                }
-                            }
-                        },
-                        "GLOBAL-FAP-12x16-PORTRAIT": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://www.dropbox.com/scl/fi/5ea3ejpz4vevm3ppqugul/LY1036-3040-Boho-Floral-Vase.tif?rlkey=69l81wzl8l4d3999prn6u4616&dl=1"
-                                }
-                            }
-                        },
-                        "GLOBAL-FAP-16x20-PORTRAIT": {
-                            "images": {
-                                "front": {}
-                            }
-                        },
-                        "GLOBAL-FAP-20x28-PORTRAIT": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://www.dropbox.com/scl/fi/1sub3xrh1mp6vzwio334f/LY1036-5070-Boho-Floral-Vase.tif?rlkey=vyntg985075jiv060um0v1ofj&dl=1"
-                                }
-                            }
-                        },
-                        "GLOBAL-FAP-28x40-PORTRAIT": {
-                            "images": {
-                                "front": {
-                                    "user_image_url": "https://epfileconcierge.blob.core.windows.net/concierge/LY1036-70100 Boho Floral Vase-01.jpeg"
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        {
             "title": "House Art Print",
             "user_image_url": "https://www.dropbox.com/scl/fi/2z4rafdjait2kbd7a74er/HTAP1099-5070-House-01.tif?rlkey=zjrx4pke6g8t5wrfj5ywvsz23&dl=1",
             "products": {
@@ -126,7 +76,7 @@
                         "GLOBAL-FAP-28x40-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://www.dropbox.com/scl/fi/4ubzu1hg7ql1oafuu6arn/HTAP1099-70100.tif?rlkey=b3u4co9k46fvcwqz8chkeystl&dl=1"
+                                    "user_image_url": "https://epfileconcierge.blob.core.windows.net/concierge/HTAP1099-70100.jpeg"
                                 }
                             }
                         }
