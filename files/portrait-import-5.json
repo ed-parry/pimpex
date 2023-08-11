@@ -25,7 +25,7 @@
     },
     "product_ranges": [
         {
-            "title": "ANOTHER DESIGN WITH VARIANT IMAGES",
+            "title": "FINAL IMAGE TEST",
             "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/96c079206158a638011e140d6e1d0f8688270442/files/a.jpg",
             "products": {
                 "global-fap": {
@@ -40,7 +40,7 @@
                         "GLOBAL-FAP-8x12-PORTRAIT": {
                             "images": {
                                 "front": {
-                                    "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/8a4c8ac80193cffb6faf6e8ff97cf3109a28a473/files/two.jpg"
+                                    "user_image_url": "https://raw.githubusercontent.com/ed-parry/pimpex/96c079206158a638011e140d6e1d0f8688270442/files/a.jpg"
                                 }
                             }
                         }
