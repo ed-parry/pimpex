@@ -1,0 +1,35 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-12x12-SQUARE": {
+            "enabled": true,
+            "retail_price": 35
+        },
+        "GLOBAL-FAP-20x20-SQUARE": {
+            "enabled": true,
+            "retail_price": 50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Giraffe Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/lsp2lo1gnvmtwc83gvbr2/NGP1044-5050-Giraffe-1-01.tif?rlkey=47ddi6d5gqdgtx3456rmqph3o&dl=1",
+            "global-fap": {
+                "description": ""
+            }
+        }
+    ]
+}

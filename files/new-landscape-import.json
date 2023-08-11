@@ -1,0 +1,674 @@
+{
+    "product_range_defaults": {
+        "published": true
+    },
+    "product_defaults": {
+        "enabled": false
+    },
+    "products_defaults": {
+        "global-fap": {
+            "enabled": true
+        }
+    },
+    "variant_defaults": {
+        "enabled": false
+    },
+    "variants_defaults": {
+        "GLOBAL-FAP-6x8-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 35
+        },
+        "GLOBAL-FAP-8x12-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50
+        },
+        "GLOBAL-FAP-12x16-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50
+        },
+        "GLOBAL-FAP-16x20-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50
+        },
+        "GLOBAL-FAP-20x28-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50
+        },
+        "GLOBAL-FAP-28x40-LANDSCAPE": {
+            "enabled": true,
+            "retail_price": 50
+        }
+    },
+    "product_ranges": [
+        {
+            "title": "Leopard Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/a6o0sn0ntoj9w98hcnpka/LRP1105-1520-Leopard.tif?rlkey=c37v9syg5nmh7k3krqszj2dgg&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/a6o0sn0ntoj9w98hcnpka/LRP1105-1520-Leopard.tif?rlkey=c37v9syg5nmh7k3krqszj2dgg&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/0agjqcpicjxfudicv72tj/LRP1105-A4Leopard.tif?rlkey=weoogr4eqnycr77j1is1gg7w0&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "My Wish For You Cream Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/ct6mgt52u69vr0g5w17ub/LRP1097-1520-My-Wish-For-You-Pink.tif?rlkey=c2s4cjmu9d2z3heqxn4tz6838&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/ct6mgt52u69vr0g5w17ub/LRP1097-1520-My-Wish-For-You-Pink.tif?rlkey=c2s4cjmu9d2z3heqxn4tz6838&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/cquvc5kxpvhxngtbupcbg/LRP1098-A4-My-Wish-For-You-Cream-01.tif?rlkey=hvt7iq2nq9jyrf8bsc6i5a8i4&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "My Wish For You Pink Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/ct6mgt52u69vr0g5w17ub/LRP1097-1520-My-Wish-For-You-Pink.tif?rlkey=c2s4cjmu9d2z3heqxn4tz6838&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/ct6mgt52u69vr0g5w17ub/LRP1097-1520-My-Wish-For-You-Pink.tif?rlkey=c2s4cjmu9d2z3heqxn4tz6838&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/5n7d8uwntt02thqxga4op/LRP1097-A4-My-Wish-For-You-Pink-01.tif?rlkey=tx6p8tlwe4l7j3u1s81xosvaq&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "My Wish For You Blue Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/hbz0mqj61q5ili15hon3m/LRP1095-1520-My-Wish-For-You-Blue.tif?rlkey=o75o6litza3x6w4rt1jph27rc&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/hbz0mqj61q5ili15hon3m/LRP1095-1520-My-Wish-For-You-Blue.tif?rlkey=o75o6litza3x6w4rt1jph27rc&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/xqbrsaiv5ah962xxushaj/LRP1095-A4-My-Wish-For-You-Blue-01.tif?rlkey=achq9mzthxf62px6brabjn750&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Animals Of The World Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/3q3c3osv36tb308emjbbc/GLP1061-A4-Animals-Of-The-World.tif?rlkey=t6eaa1fcqmtjr9d4df0l7x0t9&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/3q3c3osv36tb308emjbbc/GLP1061-A4-Animals-Of-The-World.tif?rlkey=t6eaa1fcqmtjr9d4df0l7x0t9&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Swan Lake Grey Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/5hzxw8bxyawcrv3yvdo5e/BBP1090-3040-Swan-Lake-Grey-A4.tif?rlkey=w5cyiza365rsh3flwlhd0duqc&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/5hzxw8bxyawcrv3yvdo5e/BBP1090-3040-Swan-Lake-Grey-A4.tif?rlkey=w5cyiza365rsh3flwlhd0duqc&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Forever Fearless Ochre Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/2t215y1s61lcou8jp5u3y/LY1037-15X20-Forever-Fearless-Ochre.tif?rlkey=fk4vnaq8x09a53ngllh6c9c0r&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/2t215y1s61lcou8jp5u3y/LY1037-15X20-Forever-Fearless-Ochre.tif?rlkey=fk4vnaq8x09a53ngllh6c9c0r&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/ppp3uppenp8sgagtpadr3/LY1037-A4-Forever-Fearless-Ochre.tif?rlkey=293yczd56gdgfxai8m72iyzba&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Swan Lake Pink Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/efgz5bj3ef1ffn4cvrlgc/BBP1089-3040-Swan-Lake-Pink-A4.tif?rlkey=pellbyfbr13sajkstmnfufzrf&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/efgz5bj3ef1ffn4cvrlgc/BBP1089-3040-Swan-Lake-Pink-A4.tif?rlkey=pellbyfbr13sajkstmnfufzrf&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Forever Fearless Green Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/ghfemfmbgcoyb9amyf4d0/LY1038-1520-Forever-Fearless-Green.tif?rlkey=ftxf7pzq634g2lfot0ih1hlbw&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/ghfemfmbgcoyb9amyf4d0/LY1038-1520-Forever-Fearless-Green.tif?rlkey=ftxf7pzq634g2lfot0ih1hlbw&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/ghfemfmbgcoyb9amyf4d0/LY1038-1520-Forever-Fearless-Green.tif?rlkey=ftxf7pzq634g2lfot0ih1hlbw&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "G Is For Gorilla Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/bjn4juq908wx8zdq5jp8f/LRP1046-A4-G-Is-For-Gorrilla.tif?rlkey=0s9tvdfbc6byyx4rofwpi4lau&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/bjn4juq908wx8zdq5jp8f/LRP1046-A4-G-Is-For-Gorrilla.tif?rlkey=0s9tvdfbc6byyx4rofwpi4lau&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "The Wonder Of You Swan Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/mq6ya4ds4xpupvxl95g36/LRP1051-1520-The-Wonder-of-you-Swan.tif?rlkey=ubgfwgz6yrwcytzhsbj2nae7j&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/mq6ya4ds4xpupvxl95g36/LRP1051-1520-The-Wonder-of-you-Swan.tif?rlkey=ubgfwgz6yrwcytzhsbj2nae7j&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/qx9ssfomfedekzdppjn8r/LRP1051-A4-The-Wonder-Of-You-Swan.tif?rlkey=3avjx888o5g6yv4od0fikqh9s&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Pink Sky Landscape Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/ne98x3w38i19k8wiu86we/RHP1031-15x20-Pink-Sky-Landscape.tif?rlkey=yiz1kr969hb24dvuuw4svjl4a&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/ne98x3w38i19k8wiu86we/RHP1031-15x20-Pink-Sky-Landscape.tif?rlkey=yiz1kr969hb24dvuuw4svjl4a&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/89qybfadft3rste88gxqv/RHP1031-A4-Pink-Sky-Landscape.tif?rlkey=eyuvr79yr7trdarnikj82nw7x&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Cowboy Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/74tzpw1ffg7pqvyf7zyvp/RHP1034-15x20-Cowboy.tif?rlkey=06dq35nqzvml2ld1uo7nwdony&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/74tzpw1ffg7pqvyf7zyvp/RHP1034-15x20-Cowboy.tif?rlkey=06dq35nqzvml2ld1uo7nwdony&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/vne8thy0srqiby4itt419/RHP1034-A4-Cowboy.tif?rlkey=41embuqchplsrjjdg6cgcfaw9&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "title": "Garden Art Print",
+            "user_image_url": "https://www.dropbox.com/scl/fi/dv8bdwdbcdcbpq6ws9df6/RHP1035-15x20-Garden.tif?rlkey=heb3a7dvxrrrrj1r8ov12iufs&dl=1",
+            "products": {
+                "global-fap": {
+                    "variants": {
+                        "GLOBAL-FAP-6x8-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/dv8bdwdbcdcbpq6ws9df6/RHP1035-15x20-Garden.tif?rlkey=heb3a7dvxrrrrj1r8ov12iufs&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-8x12-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/dv8bdwdbcdcbpq6ws9df6/RHP1035-15x20-Garden.tif?rlkey=heb3a7dvxrrrrj1r8ov12iufs&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-12x16-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-20x28-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": "https://www.dropbox.com/scl/fi/nd0kyl4bpn6vy51othiub/LRP1105-5070-Leopard-01.tif?rlkey=1jmyjpk7s53doyy3xwv5xert7&dl=1"
+                                }
+                            }
+                        },
+                        "GLOBAL-FAP-28x40-LANDSCAPE": {
+                            "images": {
+                                "front": {
+                                    "user_image_url": ""
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
